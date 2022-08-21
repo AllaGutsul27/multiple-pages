@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(223, 237, 241);
+    text-align: center;
+}
+
+h1 {
+    color: olivedrab;
+}
+p {
+    font-size: 18px;
+    padding: 10px 25px;
+}
+a {
+    margin-right: 15px;
+    padding: 15px 20px;
+    color: orange;
+}
+
+a:hover {
+    color: green;
+}
+
+.contact {
+    color: blue;
+    text-decoration: none;
+}
+
+.contact:hover {
+    color:rgb(223, 241, 230);
+    text-decoration: underline;
+}
+
+img {
+    margin: 20px;
+}
